@@ -1,4 +1,4 @@
-# Oid software for matroids
+# Oid: interactive software for matroids
 
 Oid can be downloaded in two forms:
 
